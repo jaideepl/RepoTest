@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RepoTester.iml" filepath="$PROJECT_DIR$/.idea/modules/RepoTester.iml" group="RepoTester" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="RepoTester/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RepoTest.iml" filepath="$PROJECT_DIR$/.idea/modules/RepoTest.iml" group="RepoTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="RepoTest/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib1/lib1.iml" filepath="$PROJECT_DIR$/.idea/modules/lib1/lib1.iml" group="RepoTest/lib1" />
     </modules>
   </component>
 </project>
